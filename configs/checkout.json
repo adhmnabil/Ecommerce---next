@@ -1,0 +1,27 @@
+{
+    "shippingMethods": [
+      {
+        "id": "standard",
+        "name": "Standard Shipping (5–7 days)",
+        "price": 5.00,
+        "currency": "USD"
+      },
+      {
+        "id": "express",
+        "name": "Express Shipping (2–3 days)",
+        "price": 15.00,
+        "currency": "USD"
+      },
+      {
+        "id": "overnight",
+        "name": "Overnight Shipping",
+        "price": 25.00,
+        "currency": "USD"
+      }
+    ],
+    "shippingCountries": [
+      { "code": "EG", "name": "Egypt" },
+      { "code": "CA", "name": "Canada" }
+    ]
+  }
+  
